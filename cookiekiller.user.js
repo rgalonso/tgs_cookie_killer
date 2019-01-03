@@ -6,6 +6,7 @@
 // @author       stupid cat
 // @match        *://*/*
 // @grant        none
+// @run-at       context-menu
 // ==/UserScript==
 
 (function () {
